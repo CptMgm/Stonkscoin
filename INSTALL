@@ -1,0 +1,9 @@
+Building StonksCoin
+
+See doc/readme-qt.rst for instructions on building StonksCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of StonksCoin.
+
+See doc/build-*.txt for instructions on building StonksCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of StonksCoin.
