@@ -1,5 +1,5 @@
-Building Litecoin
+Building Stonkscoin
 ================
 
 See doc/build-*.md for instructions on building the various
-elements of the Litecoin Core reference implementation of Litecoin.
+elements of the Stonkscoin Core reference implementation of Stonkscoin.
